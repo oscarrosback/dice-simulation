@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Uppgift_Oscar_Rösbäck_19990112
+namespace Uppgift_Oscar
 {
     class Program
     {
