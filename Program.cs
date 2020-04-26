@@ -6,7 +6,7 @@ namespace Uppgift_Oscar
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Oscar Rösbäck");
+            Console.WriteLine("Oscar");
             Console.WriteLine("2020-04-26");
             bool x = true;
             Random ny = new Random();
